@@ -3,13 +3,13 @@
 ### Skills: Python, R, SQL, PowerBI, Tableau, Snowflake
 
 ## Education
-- M.ENG,, Energy And Environmental Management
+- M.ENG, Energy And Environmental Management
 - BSc., Electrical and Electronic Engineering
 
 ## Work Experience
 **Project Engineer @ Roots Consults Limited**
 
-** Production Engineer @ Nexans Kabelmetal Ghana Limited**
+**Production Engineer @ Nexans Kabelmetal Ghana Limited**
 
 ## Projects
 
