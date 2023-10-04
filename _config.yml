@@ -1,8 +1,8 @@
 #title: Adjabeng Senanu
-#logo: /img/IMG_20220312_165842.jpg
+logo: assets/IMG_20220312_165842.jpg
 #description: Data Analyst Portfolio
-#show_downloads: true
-#theme: jelly-theme-minimal
+show_downloads: true
+theme: jelly-theme-minimal
 
 name: "Your Name"
 bio: "A brief bio about yourself. This can be your tagline or career objective."
