@@ -1,7 +1,7 @@
 #title: Adjabeng Senanu
 #logo: assets/IMG_20220312_165842.jpg
 #description: Data Analyst Portfolio
-@show_downloads: true
+show_downloads: true
 theme: Minima
 
 name: "Your Name"
