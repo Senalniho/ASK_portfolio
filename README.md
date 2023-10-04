@@ -1,9 +1,3 @@
-logo: /assets/IMG_20220312_165842.jpg
-description: Data Analyst Portfolio
-show_downloads: true
-theme: Minima
-
-# Sena's Portfolio
 
 ### Skills: Python, R, SQL, PowerBI, Tableau, Snowflake
 
