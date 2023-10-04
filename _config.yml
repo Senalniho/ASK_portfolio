@@ -1,5 +1,47 @@
-title: Adjabeng Senanu
-logo: /img/IMG_20220312_165842.jpg
+#title: Adjabeng Senanu
+#logo: /img/IMG_20220312_165842.jpg
 #description: Data Analyst Portfolio
-show_downloads: true
-theme: jelly-theme-minimal
+#show_downloads: true
+#theme: jelly-theme-minimal
+
+name: "Your Name"
+bio: "A brief bio about yourself. This can be your tagline or career objective."
+
+profile:
+  photo: "path/to/your/photo.jpg"
+  skills:
+    - Data Analysis
+    - Machine Learning
+    - Python
+    - SQL
+  interests:
+    - Reading
+    - Hiking
+    - Photography
+
+education:
+  - year: "2020-2023"
+    degree: "Master's in Data Science"
+    institution: "University Name"
+  - year: "2016-2020"
+    degree: "B.Sc in Computer Science"
+    institution: "Another University Name"
+
+projects:
+  - title: "Project 1"
+    description: "A brief description of project 1."
+    image: "path/to/project1/image.jpg"
+    link: "http://link-to-project1.com"
+  - title: "Project 2"
+    description: "A brief description of project 2."
+    image: "path/to/project2/image.jpg"
+    link: "http://link-to-project2.com"
+
+contact:
+  email: "your@email.com"
+  phone: "+123-456-7890"
+  linkedin: "https://linkedin.com/in/yourprofile"
+  github: "https://github.com/yourusername"
+
+resume: "path/to/your/resume.pdf"
+
