@@ -1,4 +1,4 @@
-# ASK_portfolio
+# Sena's Portfolio
 
 # [Project 1: Movie Analysis](https://github.com/Senalniho/PortfolioProjects/blob/main/Movie_analysis.ipynb)
 
