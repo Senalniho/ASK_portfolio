@@ -1,5 +1,6 @@
 # Sena's Portfolio
 
+
 # [Project 1: Movie Analysis](https://github.com/Senalniho/PortfolioProjects/blob/main/Movie_analysis.ipynb)
 
 This is a project I did to analyse how the budget of a movie affects its gross earnings.
@@ -18,3 +19,8 @@ This project analysed global electricity consumption per capita and examined how
 # [Project 4: Sales Prediction](https://github.com/Senalniho/Sales_Forecast#sales_forecast)
 
 This project involved predicting the sales of a clothing company using a combination of time series forecasting methods and machine learning models.
+
+
+# [Project 5: Loan Prediction](https://github.com/Senalniho/Loan_Prediction_using_Neural_Network)
+
+A web traffic prediction is performed to efficiently allocate resources to a website to know the number of sessions expected in the next hour.
