@@ -10,6 +10,6 @@ This is a project I did to analyse how the budget of a movie affects its gross e
 Using the prophet forecasting model, I did this project to forecast Ontario, Canada's electricity demand.
 
 
-# [Project 3: Electricity Demand Analysis](h[ttps://github.com/Senalniho/Ontario_Demand_Forecast/tree/main/Energy%20Forecast](https://github.com/Senalniho/Electricty_Demand_Analysis))
+# [Project 3: Electricity Demand Analysis](https://github.com/Senalniho/Electricty_Demand_Analysis)
 
 This project analysed global electricity consumption per capita and examined how renewable energy (wind energy) contributes to meeting demand.
