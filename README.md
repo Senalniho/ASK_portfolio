@@ -17,4 +17,4 @@ This project analysed global electricity consumption per capita and examined how
 
 # [Project 4: Sales Prediction](https://github.com/Senalniho/Sales_Forecast#sales_forecast)
 
-This project analysed global electricity consumption per capita and examined how renewable energy (wind energy) contributes to meeting demand.
+This project involved predicting the sales of a clothing company using a combination of time series forecasting methods and machine learning models.
